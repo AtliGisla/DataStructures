@@ -1,0 +1,16 @@
+
+TESTING REVERSE_LIST
+
+a b c d e
+e d c b a
+a b c d e
+e d c b a
+
+s k i p a n
+n a p i k s
+s k i p a n
+
+0
+0
+0
+

@@ -1,0 +1,156 @@
+
+STACK
+
+pushing measurement onto stack: name: kari, value: 79.2
+current stack: [kari: 79.2]
+stack size: 1
+
+pushing measurement onto stack: name: beggi, value: 91.3
+current stack: [beggi: 91.3] [kari: 79.2]
+stack size: 2
+
+pushing measurement onto stack: name: kalli, value: 87.6
+current stack: [kalli: 87.6] [beggi: 91.3] [kari: 79.2]
+stack size: 3
+
+pushing measurement onto stack: name: valdi, value: 117.4
+current stack: [valdi: 117.4] [kalli: 87.6] [beggi: 91.3] [kari: 79.2]
+stack size: 4
+
+pushing measurement onto stack: name: anna, value: 54.2
+current stack: [anna: 54.2] [valdi: 117.4] [kalli: 87.6] [beggi: 91.3] [kari: 79.2]
+stack size: 5
+
+popping measurement off stack
+value returned: [anna: 54.2]
+current stack: [valdi: 117.4] [kalli: 87.6] [beggi: 91.3] [kari: 79.2]
+stack size: 4
+
+popping measurement off stack
+value returned: [valdi: 117.4]
+current stack: [kalli: 87.6] [beggi: 91.3] [kari: 79.2]
+stack size: 3
+
+popping measurement off stack
+value returned: [kalli: 87.6]
+current stack: [beggi: 91.3] [kari: 79.2]
+stack size: 2
+
+popping measurement off stack
+value returned: [beggi: 91.3]
+current stack: [kari: 79.2]
+stack size: 1
+
+popping measurement off stack
+value returned: [kari: 79.2]
+current stack:
+stack size: 0
+
+popping measurement off stack
+caught EmptyException
+current stack:
+stack size: 0
+
+
+QUEUE
+
+adding measurement to queue: name: kari, value: 79.2
+current queue: [kari: 79.2]
+queue size: 1
+
+adding measurement to queue: name: beggi, value: 91.3
+current queue: [kari: 79.2] [beggi: 91.3]
+queue size: 2
+
+adding measurement to queue: name: kalli, value: 87.6
+current queue: [kari: 79.2] [beggi: 91.3] [kalli: 87.6]
+queue size: 3
+
+adding measurement to queue: name: valdi, value: 117.4
+current queue: [kari: 79.2] [beggi: 91.3] [kalli: 87.6] [valdi: 117.4]
+queue size: 4
+
+adding measurement to queue: name: anna, value: 54.2
+current queue: [kari: 79.2] [beggi: 91.3] [kalli: 87.6] [valdi: 117.4] [anna: 54.2]
+queue size: 5
+
+removing measurement from queue
+value returned: [kari: 79.2]
+current queue: [beggi: 91.3] [kalli: 87.6] [valdi: 117.4] [anna: 54.2]
+queue size: 4
+
+removing measurement from queue
+value returned: [beggi: 91.3]
+current queue: [kalli: 87.6] [valdi: 117.4] [anna: 54.2]
+queue size: 3
+
+removing measurement from queue
+value returned: [kalli: 87.6]
+current queue: [valdi: 117.4] [anna: 54.2]
+queue size: 2
+
+removing measurement from queue
+value returned: [valdi: 117.4]
+current queue: [anna: 54.2]
+queue size: 1
+
+removing measurement from queue
+value returned: [anna: 54.2]
+current queue:
+queue size: 0
+
+removing measurement from queue
+caught EmptyException
+current queue:
+queue size: 0
+
+
+EMPTY CHECK
+
+pushing measurement onto stack: name: aaa, value: 11.1
+current stack: [aaa: 11.1]
+stack size: 1
+
+pushing measurement onto stack: name: bbb, value: 22.2
+current stack: [bbb: 22.2] [aaa: 11.1]
+stack size: 2
+
+pushing measurement onto stack: name: ccc, value: 33.3
+current stack: [ccc: 33.3] [bbb: 22.2] [aaa: 11.1]
+stack size: 3
+
+pushing measurement onto stack: name: ddd, value: 44.4
+current stack: [ddd: 44.4] [ccc: 33.3] [bbb: 22.2] [aaa: 11.1]
+stack size: 4
+
+pushing measurement onto stack: name: eee, value: 55.5
+current stack: [eee: 55.5] [ddd: 44.4] [ccc: 33.3] [bbb: 22.2] [aaa: 11.1]
+stack size: 5
+
+popping every element off of stack
+current stack:
+stack size: 0
+
+adding measurement to queue: name: aaa, value: 11.1
+current queue: [aaa: 11.1]
+queue size: 1
+
+adding measurement to queue: name: bbb, value: 22.2
+current queue: [aaa: 11.1] [bbb: 22.2]
+queue size: 2
+
+adding measurement to queue: name: ccc, value: 33.3
+current queue: [aaa: 11.1] [bbb: 22.2] [ccc: 33.3]
+queue size: 3
+
+adding measurement to queue: name: ddd, value: 44.4
+current queue: [aaa: 11.1] [bbb: 22.2] [ccc: 33.3] [ddd: 44.4]
+queue size: 4
+
+adding measurement to queue: name: eee, value: 55.5
+current queue: [aaa: 11.1] [bbb: 22.2] [ccc: 33.3] [ddd: 44.4] [eee: 55.5]
+queue size: 5
+
+removing every element from queue
+current queue:
+queue size: 0

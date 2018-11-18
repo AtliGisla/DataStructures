@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1495706371 source:c:\kennsla\gagnaskipan\exams\vor2017endurtekt_solutions\characterarray\characterarray.cpp
+	"characterarray.h"
+
+1495647021 c:\kennsla\gagnaskipan\exams\vor2017endurtekt_solutions\characterarray\characterarray.h
+	<ostream>
+
+1495707739 source:c:\kennsla\gagnaskipan\exams\vor2017endurtekt_solutions\characterarray\main.cpp
+	<iostream>
+	"characterarray.h"
+
+1495985332 source:c:\kennsla\gagnaskipan\projects\solutions\v1_characterarray\characterarray.cpp
+	"characterarray.h"
+
+1495985232 c:\kennsla\gagnaskipan\projects\solutions\v1_characterarray\characterarray.h
+	<ostream>
+
+1495987236 source:c:\kennsla\gagnaskipan\projects\solutions\v1_characterarray\main.cpp
+	<iostream>
+	"characterarray.h"
+
+1495989679 source:c:\kennsla\gagnaskipan\projects\v1_characterarray\characterarray.cpp
+	"characterarray.h"
+
+1495988231 c:\kennsla\gagnaskipan\projects\v1_characterarray\characterarray.h
+	<ostream>
+
+1495988758 source:c:\kennsla\gagnaskipan\projects\v1_characterarray\main.cpp
+	<iostream>
+	"characterarray.h"
+
+1522684780 source:c:\users\atligisla\documents\hr\gagnaskipan\v1_characterarray\practice\v1_characterarray\characterarray.cpp
+	"characterarray.h"
+
+1522684265 c:\users\atligisla\documents\hr\gagnaskipan\v1_characterarray\practice\v1_characterarray\characterarray.h
+	<ostream>
+
+1496237157 source:c:\users\atligisla\documents\hr\gagnaskipan\v1_characterarray\practice\v1_characterarray\main.cpp
+	<iostream>
+	"characterarray.h"
+

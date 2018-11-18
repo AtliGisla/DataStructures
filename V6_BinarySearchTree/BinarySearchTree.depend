@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1492634153 source:c:\kennsla\gagnaskipan\exams\vor2017lokaprof_solutions\binarysearchtree\main.cpp
+	<iostream>
+	"bstset.h"
+
+1492618936 c:\kennsla\gagnaskipan\exams\vor2017lokaprof_solutions\binarysearchtree\bstset.h
+	<ostream>
+	"bstsetnode.h"
+
+1492618854 c:\kennsla\gagnaskipan\exams\vor2017lokaprof_solutions\binarysearchtree\bstsetnode.h
+
+1498259370 source:c:\kennsla\gagnaskipan\projects\solutions\v6_binarysearchtree\main.cpp
+	<iostream>
+	<string>
+	"bstmap.h"
+
+1498258922 c:\kennsla\gagnaskipan\projects\solutions\v6_binarysearchtree\bstmap.h
+	<ostream>
+	"map.h"
+	"bstmapnode.h"
+
+1498231261 c:\kennsla\gagnaskipan\projects\solutions\v6_binarysearchtree\bstmapnode.h
+
+1498258922 c:\kennsla\gagnaskipan\projects\solutions\v6_binarysearchtree\map.h
+	<ostream>
+

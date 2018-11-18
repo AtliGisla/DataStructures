@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1492638895 source:c:\kennsla\gagnaskipan\exams\vor2017lokaprof_solutions\listoperations\listoperations.cpp
+	"listoperations.h"
+
+1492638323 c:\kennsla\gagnaskipan\exams\vor2017lokaprof_solutions\listoperations\listoperations.h
+	<ostream>
+	"listnode.h"
+
+1492639705 source:c:\kennsla\gagnaskipan\exams\vor2017lokaprof_solutions\listoperations\main.cpp
+	<iostream>
+	"listnode.h"
+	"listoperations.h"
+
+1492611957 c:\kennsla\gagnaskipan\exams\vor2017lokaprof_solutions\listoperations\listnode.h
+	<string>
+
+1497264256 source:c:\kennsla\gagnaskipan\projects\v4_reverselist\listoperations.cpp
+	"listoperations.h"
+
+1497264256 c:\kennsla\gagnaskipan\projects\v4_reverselist\listoperations.h
+	<ostream>
+	"listnode.h"
+
+1492611957 c:\kennsla\gagnaskipan\projects\v4_reverselist\listnode.h
+	<string>
+
+1497264262 source:c:\kennsla\gagnaskipan\projects\v4_reverselist\main.cpp
+	<iostream>
+	"listnode.h"
+	"listoperations.h"
+
+1518455289 source:c:\users\atligisla\documents\hr\gagnaskipan\v4_reverselist\main.cpp
+	<iostream>
+	"listnode.h"
+	"listoperations.h"
+
+1518463367 c:\users\atligisla\documents\hr\gagnaskipan\v4_reverselist\listnode.h
+	<string>
+
+1497264256 c:\users\atligisla\documents\hr\gagnaskipan\v4_reverselist\listoperations.h
+	<ostream>
+	"listnode.h"
+
+1518463178 source:c:\users\atligisla\documents\hr\gagnaskipan\v4_reverselist\listoperations.cpp
+	"listoperations.h"
+	<iostream>
+

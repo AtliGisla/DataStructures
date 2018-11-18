@@ -1,0 +1,21 @@
+
+STRING_LIST
+
+fic sdf wet fgh
+pod
+pod bxph
+pod bxph
+pod
+Caught InvalidPositionException
+pod
+pod
+ah pod
+ah pod
+ah pod
+ah pod
+ah pod z
+
+INT_LIST
+
+7 4
+

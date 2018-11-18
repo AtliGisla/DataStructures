@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1496919254 source:c:\kennsla\gagnaskipan\projects\solutions\v3_doublylinkedlist\main.cpp
+	<iostream>
+	"doublylinkedlist.h"
+
+1496919158 c:\kennsla\gagnaskipan\projects\solutions\v3_doublylinkedlist\stringlist.h
+	<iostream>
+	"StringNode.h"
+
+1496918411 c:\kennsla\gagnaskipan\projects\solutions\v3_doublylinkedlist\stringnode.h
+
+1496919793 c:\kennsla\gagnaskipan\projects\solutions\v3_doublylinkedlist\doublylinkedlist.h
+	<iostream>
+	"listnode.h"
+
+1496919730 c:\kennsla\gagnaskipan\projects\solutions\v3_doublylinkedlist\listnode.h
+
+1518013937 source:c:\users\atligisla\documents\hr\gagnaskipan\v3_doublylinkedlist\main.cpp
+	<iostream>
+	"doublylinkedlist.h"
+
+1518014056 c:\users\atligisla\documents\hr\gagnaskipan\v3_doublylinkedlist\doublylinkedlist.h
+	<iostream>
+	"listnode.h"
+
+1517851596 c:\users\atligisla\documents\hr\gagnaskipan\v3_doublylinkedlist\listnode.h
+

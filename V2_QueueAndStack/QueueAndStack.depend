@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1516721991 source:c:\users\atligisla\documents\hr\gagnaskipan\v2_queueandstack\main.cpp
+	<iostream>
+	"stack.h"
+	"queue.h"
+
+1516722999 c:\users\atligisla\documents\hr\gagnaskipan\v2_queueandstack\include\stack.h
+	<ostream>
+	<string>
+	"measurement.h"
+	"Node.h"
+
+1496421052 c:\users\atligisla\documents\hr\gagnaskipan\v2_queueandstack\include\measurement.h
+	<ostream>
+	<string>
+
+1516722994 c:\users\atligisla\documents\hr\gagnaskipan\v2_queueandstack\include\node.h
+	"measurement.h"
+	<iostream>
+
+1516722999 c:\users\atligisla\documents\hr\gagnaskipan\v2_queueandstack\include\queue.h
+	"measurement.h"
+	"Node.h"
+
+1516722604 source:c:\users\atligisla\documents\hr\gagnaskipan\v2_queueandstack\src\queue.cpp
+	"Queue.h"
+
+1516721485 source:c:\users\atligisla\documents\hr\gagnaskipan\v2_queueandstack\src\stack.cpp
+	"Stack.h"
+

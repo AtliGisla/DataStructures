@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1498734712 source:c:\kennsla\gagnaskipan\projects\solutions\v8_hashmap\main.cpp
+	<iostream>
+	<string>
+	"hashmap.h"
+	"hashfunctions.h"
+
+1498735530 c:\kennsla\gagnaskipan\projects\solutions\v8_hashmap\hashmap.h
+	<ostream>
+	"map.h"
+	"keydatalist.h"
+
+1498424086 c:\kennsla\gagnaskipan\projects\solutions\v8_hashmap\map.h
+	<ostream>
+
+1498735215 c:\kennsla\gagnaskipan\projects\solutions\v8_hashmap\keydatalist.h
+	"keydatalistnode.h"
+
+1498560860 c:\kennsla\gagnaskipan\projects\solutions\v8_hashmap\keydatalistnode.h
+
+1498578371 source:c:\kennsla\gagnaskipan\projects\solutions\v8_hashmap\hashfunctions.cpp
+	"hashfunctions.h"
+
+1498578371 c:\kennsla\gagnaskipan\projects\solutions\v8_hashmap\hashfunctions.h
+	<string>
+
+1522077583 source:c:\users\atligisla\documents\hr\gagnaskipan\v8_hashmap\main.cpp
+	<iostream>
+	<string>
+	"hashmap.h"
+	"hashfunctions.h"
+
+1523040023 c:\users\atligisla\documents\hr\gagnaskipan\v8_hashmap\include\hashmap.h
+	"bucket.h"
+	"..\map.h"
+
+1523024650 c:\users\atligisla\documents\hr\gagnaskipan\v8_hashmap\hashfunctions.h
+	<string>
+
+1521997099 source:c:\users\atligisla\documents\hr\gagnaskipan\v8_hashmap\src\hashmap.cpp
+	"hashmap.h"
+
+1523024503 source:c:\users\atligisla\documents\hr\gagnaskipan\v8_hashmap\hashfunctions.cpp
+	"hashfunctions.h"
+
+1523041286 c:\users\atligisla\documents\hr\gagnaskipan\v8_hashmap\map.h
+	<ostream>
+	"hashmap.h"
+
+1523041895 c:\users\atligisla\documents\hr\gagnaskipan\v8_hashmap\include\bucket.h
+	<stdlib.h>
+

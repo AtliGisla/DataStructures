@@ -1,0 +1,208 @@
+ 
+printing array
+CharacterArray: ""
+string length: 0
+
+insert: 'a' at index: 1
+index out of bounds
+string length: 0
+
+insert: 'a' at index: 0
+CharacterArray: "a"
+string length: 1
+
+insert: 'b' at index: 1
+CharacterArray: "ab"
+string length: 2
+
+insert: 'c' at index: 0
+CharacterArray: "cab"
+string length: 3
+
+insert: 'd' at index: 4
+index out of bounds
+string length: 3
+
+insert: ' ' at index: 3
+CharacterArray: "cab "
+string length: 4
+
+insert: 'd' at index: 4
+CharacterArray: "cab d"
+string length: 5
+
+insert: 'l' at index: 2
+CharacterArray: "calb d"
+string length: 6
+
+insert: 'e' at index: 3
+CharacterArray: "caleb d"
+string length: 7
+
+insert: 'e' at index: 7
+CharacterArray: "caleb de"
+string length: 8
+
+insert: 'a' at index: 7
+CharacterArray: "caleb dae"
+string length: 9
+
+insert: 'k' at index: 8
+CharacterArray: "caleb dake"
+string length: 10
+
+insert: 'r' at index: 7
+CharacterArray: "caleb drake"
+string length: 11
+
+insert: 's' at index: -1
+index out of bounds
+string length: 11
+
+append: ' '
+CharacterArray: "caleb drake "
+string length: 12
+
+append: 'm'
+CharacterArray: "caleb drake m"
+string length: 13
+
+append: 'o'
+CharacterArray: "caleb drake mo"
+string length: 14
+
+append: 'r'
+CharacterArray: "caleb drake mor"
+string length: 15
+
+append: 'e'
+CharacterArray: "caleb drake more"
+string length: 16
+
+append: ' '
+CharacterArray: "caleb drake more "
+string length: 17
+
+append: 's'
+CharacterArray: "caleb drake more s"
+string length: 18
+
+append: 't'
+CharacterArray: "caleb drake more st"
+string length: 19
+
+append: 'u'
+CharacterArray: "caleb drake more stu"
+string length: 20
+
+append: 'f'
+CharacterArray: "caleb drake more stuf"
+string length: 21
+
+append: 'f'
+CharacterArray: "caleb drake more stuff"
+string length: 22
+
+set: 'g' at index: 12
+CharacterArray: "caleb drake gore stuff"
+string length: 22
+
+get character at index: 3
+Returned value: 'e'
+
+get character at index: 12
+Returned value: 'g'
+
+get character at index: 17
+Returned value: 's'
+
+get character at index: 16
+Returned value: ' '
+
+get character at index: 9
+Returned value: 'k'
+
+get character at index: 22
+index out of bounds
+
+get character at index: 0
+Returned value: 'c'
+
+append: ' '
+CharacterArray: "caleb drake gore stuff "
+string length: 23
+
+append: 'p'
+CharacterArray: "caleb drake gore stuff p"
+string length: 24
+
+append: 'o'
+CharacterArray: "caleb drake gore stuff po"
+string length: 25
+
+append: 'p'
+CharacterArray: "caleb drake gore stuff pop"
+string length: 26
+
+popping character from back
+Returned value: 'p'
+CharacterArray: "caleb drake gore stuff po"
+string length: 25
+
+popping character from back
+Returned value: 'o'
+CharacterArray: "caleb drake gore stuff p"
+string length: 24
+
+popping character from back
+Returned value: 'p'
+CharacterArray: "caleb drake gore stuff "
+string length: 23
+
+popping character from back
+Returned value: ' '
+CharacterArray: "caleb drake gore stuff"
+string length: 22
+
+remove character at index: 16
+Returned value: ' '
+CharacterArray: "caleb drake gorestuff"
+string length: 21
+
+remove character at index: 5
+Returned value: ' '
+CharacterArray: "calebdrake gorestuff"
+string length: 20
+
+remove character at index: 10
+Returned value: ' '
+CharacterArray: "calebdrakegorestuff"
+string length: 19
+
+
+
+substring from 2 of length 6
+Returned array: "lebdra"
+
+substring from 6 of length 5
+Returned array: "rakeg"
+
+substring from 0 of length 5
+Returned array: "caleb"
+
+substring from 19 of length 7
+index out of bounds
+
+substring from -2 of length 4
+index out of bounds
+
+substring from 4 of length 0
+Returned array: ""
+
+
+
+clearing array
+CharacterArray: ""
+string length: 0
+
+array is empty
